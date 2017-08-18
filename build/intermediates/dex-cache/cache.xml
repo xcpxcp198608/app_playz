@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/xuchengpeng/AndroidStudioProjects/PlayZ/common/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="726563164750298df1a865a601b78be8db999b3f">
+        <dex dex="/Users/xuchengpeng/AndroidStudioProjects/PlayZ/app/build/intermediates/pre-dexed/release/classes_eb7c67fdaf89cc23ca7c2ed68407bff5af3dccb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xuchengpeng/AndroidStudioProjects/LivePlay/common/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="726563164750298df1a865a601b78be8db999b3f">
+        <dex dex="/Users/xuchengpeng/AndroidStudioProjects/LivePlay/app/build/intermediates/pre-dexed/release/classes_06a2ab1abfcc21eef76fbead57d00e2b4a8a3011.jar" />
+    </item>
+
+</items>
